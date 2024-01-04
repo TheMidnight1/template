@@ -1,0 +1,43 @@
+.contact h2{
+    margin-top: 20px;
+    color: #1c2064;
+}
+
+.contact .contact_tittle h3{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #1c2064;
+}
+.contact .contact_form .single_query{
+    margin: 10px;
+}
+.form-control{
+    margin-bottom: 15px;
+}
+
+textarea{
+    margin-bottom: 15px;
+}
+
+.btn{
+    background-color: #ff0053;
+    color: aliceblue;
+}
+.btn:hover{
+    color: white;
+    background-color: #1c2064;
+
+}
+.icon-theme{
+    background-color: #1c2064;
+
+}
+
+p{
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.text{
+    padding-top: 1%;
+}
